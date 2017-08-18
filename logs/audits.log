@@ -1,0 +1,146 @@
+	[17/Jul/24 13:20:00][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/25 06:27:52][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Test Project 'demo' was created
+	[17/Jul/25 06:29:35][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Attachment '' - file 'LogFile.log' was created
+	[17/Jul/25 06:29:41][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Attachment '' - file 'LogFile.log' was created
+	[17/Jul/25 06:32:32][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Attachment '' was deleted
+	[17/Jul/25 06:33:23][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Test Project 'demo' - Test Plan 'testplan' was created
+	[17/Jul/25 06:33:52][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Test Case 'tc-1 : o1' version 1 was added to Test Plan testplan
+	[17/Jul/25 06:34:18][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Test Project 'demo' - Test Plan 'testplan' - Build 'build' was created
+	[17/Jul/25 13:49:13][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Logout of 'admin'
+	[17/Jul/25 13:49:25][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 05:51:43][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Logout of 'admin'
+	[17/Jul/26 05:52:14][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 06:23:35][AUDIT][19p28nv1dr3afrtbko4cvcblb4][GUI]
+		Logout of 'admin'
+	[17/Jul/26 08:09:24][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 08:11:05][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Logout of 'admin'
+	[17/Jul/26 08:11:14][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 08:12:37][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Logout of 'admin'
+	[17/Jul/26 09:05:27][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[17/Jul/26 09:05:37][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[17/Jul/26 09:05:46][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 09:11:04][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Logout of 'admin'
+	[17/Jul/26 09:16:05][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 09:16:09][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Logout of 'admin'
+	[17/Jul/26 09:16:56][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 09:26:23][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Logout of 'admin'
+	[17/Jul/26 09:26:48][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/26 09:27:13][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Logout of 'admin'
+	[17/Jul/27 06:50:51][AUDIT][7e0bvk2jaio2oi3lib1f6t4vg1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/27 12:02:38][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/28 14:51:44][AUDIT][0lo3ia9u56rqqrmvgpjdhi95b0][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/31 06:36:08][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Logout of 'admin'
+	[17/Jul/31 07:47:44][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Jul/31 09:41:41][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Test Project 'demo' - Requirement specification 'req1' was created
+	[17/Aug/1 05:47:19][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Logout of 'admin'
+	[17/Aug/1 05:47:31][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/1 08:01:15][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Logout of 'admin'
+	[17/Aug/1 08:01:32][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/2 11:57:17][AUDIT][rljniaj25univd0qrfl0uktm80][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/3 06:14:06][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Logout of 'admin'
+	[17/Aug/3 06:14:25][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/7 12:33:40][AUDIT][vbhtor75eecg0uu2hpe78jq8n7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/8 09:06:44][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/8 09:19:50][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Logout of 'admin'
+	[17/Aug/8 12:16:14][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/8 12:16:19][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Logout of 'admin'
+	[17/Aug/9 06:31:17][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/9 07:26:57][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Logout of 'admin'
+	[17/Aug/9 07:32:27][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/9 07:32:35][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Logout of 'admin'
+	[17/Aug/9 09:04:37][AUDIT][nhiudgvfmfsb10hsjtv72i3h37][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/10 06:01:05][AUDIT][3r15538fp3cshb7hns5dc3ttd1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/10 06:09:07][AUDIT][3r15538fp3cshb7hns5dc3ttd1][GUI]
+		Logout of 'admin'
+	[17/Aug/10 06:10:33][AUDIT][3r15538fp3cshb7hns5dc3ttd1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/16 11:17:31][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/16 11:47:58][AUDIT][mitk9o4ge3c5mu42b0kiq4hq35][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/16 13:05:58][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Logout of 'admin'
+	[17/Aug/16 13:06:46][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/16 14:35:56][AUDIT][5s8jpeci388akgt5g44a0fuvg3][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 06:53:01][AUDIT][p636eb13sm2gtdoqkrsekfes31][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 06:54:01][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[17/Aug/17 06:54:18][AUDIT][26g5423hlhsl7gn6cc7geffbf3][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 09:42:48][AUDIT][p636eb13sm2gtdoqkrsekfes31][GUI]
+		Logout of 'admin'
+	[17/Aug/17 09:44:46][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Logout of 'admin'
+	[17/Aug/17 09:45:07][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 09:50:21][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Logout of 'admin'
+	[17/Aug/17 09:58:57][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 10:13:35][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Logout of 'admin'
+	[17/Aug/17 10:13:52][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 10:14:09][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Logout of 'admin'
+	[17/Aug/17 10:24:48][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 12:12:50][AUDIT][q5p9vthvlh4650g0o2v510mtt3][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Aug/17 14:21:23][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Logout of 'admin'
+	[17/Aug/17 14:21:55][AUDIT][macqqha202idu61o7amrj0dl31][GUI]
+		Login for 'admin' from '::1' succeeded

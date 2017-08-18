@@ -1,0 +1,156 @@
+ INFO | 2016-06-21 19:50:55,577 | Common.java | 79 | Startup activites...
+ INFO | 2016-06-21 19:50:55,577 | Common.java | 79 | Test Output Directory creation successful :D:\Prakashs_Backup\DemoWorkspaceFinal\SWAUT_Grid_New\TestResults\2016_06_21_07_50_55_PM
+ INFO | 2016-06-21 19:50:55,577 | Common.java | 79 | Log File creation successful : LogFile.log
+ INFO | 2016-06-21 19:50:59,016 | Common.java | 79 | Report step generation success : openBrowser start
+ INFO | 2016-06-21 19:50:59,016 | Common.java | 79 | Report step generation success : openBrowser start
+ INFO | 2016-06-21 19:51:05,706 | Common.java | 79 | Element time out set
+ INFO | 2016-06-21 19:51:05,706 | Common.java | 79 | ##### Start of Test Case : VERIFY_LOGIN #####
+ WARN | 2016-06-21 19:51:05,707 | Common.java | 83 | Report step generation success : Desktop3<B></B><h1><font color=SaddleBrown>VERIFY_LOGIN</h1></font><br/>
+ INFO | 2016-06-21 19:51:05,806 | Common.java | 79 | Test Data Set Name: TC1
+ INFO | 2016-06-21 19:51:05,806 | Common.java | 79 | Execution Flag: Execute
+ INFO | 2016-06-21 19:51:05,807 | Common.java | 79 | Test Data Set Name: TC1_001
+ INFO | 2016-06-21 19:51:05,807 | Common.java | 79 | Execution Flag: YES
+ INFO | 2016-06-21 19:51:05,807 | Common.java | 79 | Test Data Set Name: 
+ INFO | 2016-06-21 19:51:05,807 | Common.java | 79 | Execution Flag: 
+ INFO | 2016-06-21 19:51:05,807 | Common.java | 79 | ########### Start of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:05,807 | Common.java | 79 | Report step generation success : ########### Start of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:06,163 | Common.java | 79 | Desktop3Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:06,164 | Common.java | 79 | Report step generation success : Desktop3Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:06,451 | Common.java | 79 | Desktop3Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:06,451 | Common.java | 79 | Report step generation success : Desktop3Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:06,452 | Common.java | 79 | Desktop3Entered Username and Password
+ INFO | 2016-06-21 19:51:06,452 | Common.java | 79 | Report step generation success : Desktop3Entered Username and Password
+ INFO | 2016-06-21 19:51:08,866 | Common.java | 79 | Desktop3Clicked On SignIn button
+ INFO | 2016-06-21 19:51:08,866 | Common.java | 79 | Report step generation success : Desktop3Clicked On SignIn button
+ INFO | 2016-06-21 19:51:09,003 | Common.java | 79 | Desktop3Logged into the Application succesfully
+ INFO | 2016-06-21 19:51:09,003 | Common.java | 79 | Report step generation success : Desktop3Logged into the Application succesfully
+ INFO | 2016-06-21 19:51:09,956 | Common.java | 79 | Element time out set
+ INFO | 2016-06-21 19:51:09,956 | Common.java | 79 | ##### Start of Test Case : VERIFY_LOGIN #####
+ WARN | 2016-06-21 19:51:09,956 | Common.java | 83 | Report step generation success : Desktop2<B></B><h1><font color=SaddleBrown>VERIFY_LOGIN</h1></font><br/>
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | Test Data Set Name: TC2
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | Execution Flag: Execute
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | Test Data Set Name: TC2_001
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | Execution Flag: YES
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | Test Data Set Name: 
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | Execution Flag: 
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | ########### Start of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:10,037 | Common.java | 79 | Report step generation success : ########### Start of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:10,116 | Common.java | 79 | Desktop2Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:10,117 | Common.java | 79 | Report step generation success : Desktop2Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:10,183 | Common.java | 79 | Desktop2Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:10,183 | Common.java | 79 | Report step generation success : Desktop2Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:10,183 | Common.java | 79 | Desktop2Entered Username and Password
+ INFO | 2016-06-21 19:51:10,183 | Common.java | 79 | Report step generation success : Desktop2Entered Username and Password
+ INFO | 2016-06-21 19:51:10,249 | Common.java | 79 | Desktop2Clicked On SignIn button
+ INFO | 2016-06-21 19:51:10,249 | Common.java | 79 | Report step generation success : Desktop2Clicked On SignIn button
+ INFO | 2016-06-21 19:51:10,523 | Common.java | 79 | ########### End of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:10,523 | Common.java | 79 | Report step generation success : ########### End of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:11,965 | Common.java | 79 | Element time out set
+ INFO | 2016-06-21 19:51:11,965 | Common.java | 79 | ##### Start of Test Case : VERIFY_LOGIN_FAIL #####
+ WARN | 2016-06-21 19:51:11,965 | Common.java | 83 | Report step generation success : Desktop3<B></B><h1><font color=SaddleBrown>VERIFY_LOGIN_FAIL</h1></font><br/>
+ INFO | 2016-06-21 19:51:12,043 | Common.java | 79 | Test Data Set Name: TC3
+ INFO | 2016-06-21 19:51:12,043 | Common.java | 79 | Execution Flag: Execute
+ INFO | 2016-06-21 19:51:12,043 | Common.java | 79 | Test Data Set Name: TC3_001
+ INFO | 2016-06-21 19:51:12,043 | Common.java | 79 | Execution Flag: YES
+ INFO | 2016-06-21 19:51:12,043 | Common.java | 79 | Test Data Set Name: 
+ INFO | 2016-06-21 19:51:12,044 | Common.java | 79 | Execution Flag: 
+ INFO | 2016-06-21 19:51:12,044 | Common.java | 79 | ########### Start of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:12,044 | Common.java | 79 | Report step generation success : ########### Start of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:12,109 | Common.java | 79 | Desktop2Logged into the Application succesfully
+ INFO | 2016-06-21 19:51:12,109 | Common.java | 79 | Report step generation success : Desktop2Logged into the Application succesfully
+ INFO | 2016-06-21 19:51:12,219 | Common.java | 79 | ########### End of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:12,219 | Common.java | 79 | Report step generation success : ########### End of Test Case Data Set: TC1_001 ###########
+ INFO | 2016-06-21 19:51:12,503 | Common.java | 79 | Desktop3Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:12,504 | Common.java | 79 | Report step generation success : Desktop3Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:12,898 | Common.java | 79 | Desktop3Entered Password-> Reset1
+ INFO | 2016-06-21 19:51:12,898 | Common.java | 79 | Report step generation success : Desktop3Entered Password-> Reset1
+ INFO | 2016-06-21 19:51:12,899 | Common.java | 79 | Desktop3Entered Username and Password
+ INFO | 2016-06-21 19:51:12,899 | Common.java | 79 | Report step generation success : Desktop3Entered Username and Password
+ INFO | 2016-06-21 19:51:13,198 | Common.java | 79 | Element time out set
+ INFO | 2016-06-21 19:51:13,198 | Common.java | 79 | ##### Start of Test Case : VERIFY_LOGIN_FAIL #####
+ WARN | 2016-06-21 19:51:13,198 | Common.java | 83 | Report step generation success : Desktop2<B></B><h1><font color=SaddleBrown>VERIFY_LOGIN_FAIL</h1></font><br/>
+ INFO | 2016-06-21 19:51:13,252 | Common.java | 79 | Test Data Set Name: TC1
+ INFO | 2016-06-21 19:51:13,253 | Common.java | 79 | Execution Flag: Execute
+ INFO | 2016-06-21 19:51:13,253 | Common.java | 79 | Test Data Set Name: TC1_001
+ INFO | 2016-06-21 19:51:13,253 | Common.java | 79 | Execution Flag: YES
+ INFO | 2016-06-21 19:51:13,253 | Common.java | 79 | Test Data Set Name: 
+ INFO | 2016-06-21 19:51:13,253 | Common.java | 79 | Execution Flag: 
+ INFO | 2016-06-21 19:51:13,253 | Common.java | 79 | ########### Start of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:13,253 | Common.java | 79 | Report step generation success : ########### Start of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:14,167 | Common.java | 79 | Desktop2Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:14,168 | Common.java | 79 | Report step generation success : Desktop2Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:14,229 | Common.java | 79 | Desktop2Entered Password-> Reset1
+ INFO | 2016-06-21 19:51:14,230 | Common.java | 79 | Report step generation success : Desktop2Entered Password-> Reset1
+ INFO | 2016-06-21 19:51:14,230 | Common.java | 79 | Desktop2Entered Username and Password
+ INFO | 2016-06-21 19:51:14,230 | Common.java | 79 | Report step generation success : Desktop2Entered Username and Password
+ INFO | 2016-06-21 19:51:14,299 | Common.java | 79 | Desktop2Clicked On SignIn button
+ INFO | 2016-06-21 19:51:14,299 | Common.java | 79 | Report step generation success : Desktop2Clicked On SignIn button
+ INFO | 2016-06-21 19:51:15,045 | Common.java | 79 | Desktop3Clicked On SignIn button
+ INFO | 2016-06-21 19:51:15,045 | Common.java | 79 | Report step generation success : Desktop3Clicked On SignIn button
+ INFO | 2016-06-21 19:51:15,137 | Common.java | 79 | Desktop3Not Logged into Application when Username and password are wrong
+ INFO | 2016-06-21 19:51:15,137 | Common.java | 79 | Report step generation success : Desktop3Not Logged into Application when Username and password are wrong
+ INFO | 2016-06-21 19:51:16,028 | Common.java | 79 | Desktop2Not Logged into Application when Username and password are wrong
+ INFO | 2016-06-21 19:51:16,028 | Common.java | 79 | Report step generation success : Desktop2Not Logged into Application when Username and password are wrong
+ INFO | 2016-06-21 19:51:16,117 | Common.java | 79 | ########### End of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:16,117 | Common.java | 79 | Report step generation success : ########### End of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:16,443 | Common.java | 79 | ########### End of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:16,443 | Common.java | 79 | Report step generation success : ########### End of Test Case Data Set: TC1_002 ###########
+ INFO | 2016-06-21 19:51:17,037 | Common.java | 79 | Element time out set
+ INFO | 2016-06-21 19:51:17,037 | Common.java | 79 | ##### Start of Test Case : VERIFY_BOOK_FLIGHT #####
+ WARN | 2016-06-21 19:51:17,037 | Common.java | 83 | Report step generation success : Desktop2<B></B><h1><font color=SaddleBrown>VERIFY_BOOK_FLIGHT</h1></font><br/>
+ INFO | 2016-06-21 19:51:17,089 | Common.java | 79 | Test Data Set Name: TC2
+ INFO | 2016-06-21 19:51:17,090 | Common.java | 79 | Execution Flag: Execute
+ INFO | 2016-06-21 19:51:17,090 | Common.java | 79 | Test Data Set Name: TC2_001
+ INFO | 2016-06-21 19:51:17,090 | Common.java | 79 | Execution Flag: YES
+ INFO | 2016-06-21 19:51:17,090 | Common.java | 79 | Test Data Set Name: 
+ INFO | 2016-06-21 19:51:17,090 | Common.java | 79 | Execution Flag: 
+ INFO | 2016-06-21 19:51:17,090 | Common.java | 79 | ########### Start of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:17,091 | Common.java | 79 | Report step generation success : ########### Start of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:17,991 | Common.java | 79 | Desktop2Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:17,991 | Common.java | 79 | Report step generation success : Desktop2Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:18,049 | Common.java | 79 | Desktop2Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:18,049 | Common.java | 79 | Report step generation success : Desktop2Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:18,050 | Common.java | 79 | Desktop2Entered Username and Password
+ INFO | 2016-06-21 19:51:18,050 | Common.java | 79 | Report step generation success : Desktop2Entered Username and Password
+ INFO | 2016-06-21 19:51:18,105 | Common.java | 79 | Desktop2Clicked On SignIn button
+ INFO | 2016-06-21 19:51:18,105 | Common.java | 79 | Report step generation success : Desktop2Clicked On SignIn button
+ INFO | 2016-06-21 19:51:18,321 | Common.java | 79 | Element time out set
+ INFO | 2016-06-21 19:51:18,321 | Common.java | 79 | ##### Start of Test Case : VERIFY_BOOK_FLIGHT #####
+ WARN | 2016-06-21 19:51:18,322 | Common.java | 83 | Report step generation success : Desktop3<B></B><h1><font color=SaddleBrown>VERIFY_BOOK_FLIGHT</h1></font><br/>
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | Test Data Set Name: TC3
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | Execution Flag: Execute
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | Test Data Set Name: TC3_001
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | Execution Flag: YES
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | Test Data Set Name: 
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | Execution Flag: 
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | ########### Start of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:18,378 | Common.java | 79 | Report step generation success : ########### Start of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:18,781 | Common.java | 79 | Desktop3Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:18,782 | Common.java | 79 | Report step generation success : Desktop3Entered UserName-> Shivaraj
+ INFO | 2016-06-21 19:51:19,198 | Common.java | 79 | Desktop3Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:19,198 | Common.java | 79 | Report step generation success : Desktop3Entered Password-> Reset123
+ INFO | 2016-06-21 19:51:19,198 | Common.java | 79 | Desktop3Entered Username and Password
+ INFO | 2016-06-21 19:51:19,198 | Common.java | 79 | Report step generation success : Desktop3Entered Username and Password
+ INFO | 2016-06-21 19:51:19,901 | Common.java | 79 | Desktop2Successfully Logged in to Application
+ INFO | 2016-06-21 19:51:19,901 | Common.java | 79 | Report step generation success : Desktop2Successfully Logged in to Application
+ INFO | 2016-06-21 19:51:21,329 | Common.java | 79 | Desktop3Clicked On SignIn button
+ INFO | 2016-06-21 19:51:21,329 | Common.java | 79 | Report step generation success : Desktop3Clicked On SignIn button
+ INFO | 2016-06-21 19:51:21,455 | Common.java | 79 | Desktop3Successfully Logged in to Application
+ INFO | 2016-06-21 19:51:21,456 | Common.java | 79 | Report step generation success : Desktop3Successfully Logged in to Application
+ INFO | 2016-06-21 19:51:23,639 | Common.java | 79 | Desktop2Enterd all the details
+ INFO | 2016-06-21 19:51:23,639 | Common.java | 79 | Report step generation success : Desktop2Enterd all the details
+ INFO | 2016-06-21 19:51:25,171 | Common.java | 79 | Desktop2Flight Ticket has been booked successfully
+ INFO | 2016-06-21 19:51:25,171 | Common.java | 79 | Report step generation success : Desktop2Flight Ticket has been booked successfully
+ INFO | 2016-06-21 19:51:25,252 | Common.java | 79 | ########### End of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:25,252 | Common.java | 79 | Report step generation success : ########### End of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:26,699 | Common.java | 79 | Desktop3Enterd all the details
+ INFO | 2016-06-21 19:51:26,699 | Common.java | 79 | Report step generation success : Desktop3Enterd all the details
+ INFO | 2016-06-21 19:51:28,683 | Common.java | 79 | Desktop3Flight Ticket has been booked successfully
+ INFO | 2016-06-21 19:51:28,683 | Common.java | 79 | Report step generation success : Desktop3Flight Ticket has been booked successfully
+ INFO | 2016-06-21 19:51:29,994 | Common.java | 79 | ########### End of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:29,994 | Common.java | 79 | Report step generation success : ########### End of Test Case Data Set: TC3_001 ###########
+ INFO | 2016-06-21 19:51:31,871 | Common.java | 79 | Cleanup activites...
+ INFO | 2016-06-21 19:51:31,871 | Common.java | 79 | Cleanup activities - Done...
+ INFO | 2016-06-21 19:51:31,871 | Common.java | 79 | ###################################
+ INFO | 2016-06-21 19:51:31,871 | Common.java | 79 | Script Execution Complete
+ INFO | 2016-06-21 19:51:31,871 | Common.java | 79 | ####################################

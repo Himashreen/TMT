@@ -1,0 +1,30 @@
+[<<][59882edeb5ee8532126032][DEFAULT][/testlink/lnl.php][17/Aug/7 09:11:58][17/Aug/7 09:11:58][took 0.014623 secs]
+[<<][59882eded30ea077935616][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:11:58][17/Aug/7 09:11:58][took 0.057043 secs]
+[>>][59882edee138b158198102][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:11:58]
+	[17/Aug/7 09:11:58][WARNING][<nosession>][GUI]
+		E_NOTICE
+Undefined property: stdClass::$build_id - in C:\xampp\htdocs\testlink\lib\results\printDocument.php - Line 638
+[<<][59882edee138b158198102][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:11:58][17/Aug/7 09:11:59][took 0.090473 secs]
+[<<][59882f2c7510a230439276][DEFAULT][/testlink/lnl.php][17/Aug/7 09:13:16][17/Aug/7 09:13:16][took 0.049497 secs]
+[>>][59882f2c81580384480332][DEFAULT][/testlink/lnl.php][17/Aug/7 09:13:16]
+[<<][59882f2c98c1e227349524][DEFAULT][/testlink/lnl.php][17/Aug/7 09:13:16][17/Aug/7 09:13:16][took 0.002452 secs]
+[<<][59882f2ca8883429829799][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:13:16][17/Aug/7 09:13:16][took 0.057706 secs]
+[>>][59882f2cb6d5d738528448][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:13:16]
+	[17/Aug/7 09:13:16][WARNING][<nosession>][GUI]
+		E_NOTICE
+Undefined property: stdClass::$build_id - in C:\xampp\htdocs\testlink\lib\results\printDocument.php - Line 638
+[<<][59882f2cb6d5d738528448][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:13:16][17/Aug/7 09:13:16][took 0.09692 secs]
+[<<][5988318cbf3c4058286135][DEFAULT][/testlink/lnl.php][17/Aug/7 09:23:24][17/Aug/7 09:23:24][took 0.051999 secs]
+[>>][5988318ccc4a5646020937][DEFAULT][/testlink/lnl.php][17/Aug/7 09:23:24]
+[<<][5988318cf3afa455069003][DEFAULT][/testlink/lnl.php][17/Aug/7 09:23:24][17/Aug/7 09:23:25][took 0.003116 secs]
+[<<][5988318d0ef9e569378971][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:23:25][17/Aug/7 09:23:25][took 0.054444 secs]
+[>>][5988318d1c7ef442033532][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:23:25]
+	[17/Aug/7 09:23:25][WARNING][<nosession>][GUI]
+		E_NOTICE
+Undefined property: stdClass::$build_id - in C:\xampp\htdocs\testlink\lib\results\printDocument.php - Line 638
+[<<][5988318d1c7ef442033532][DEFAULT][/testlink/lib/results/printDocument.php][17/Aug/7 09:23:25][17/Aug/7 09:23:25][took 0.096659 secs]
+[<<][59885e14aea8c478390864][DEFAULT][/testlink/lib/results/printDocOptions.php][17/Aug/7 12:33:24][17/Aug/7 12:33:24][took 0.06622 secs]
+[>>][59885e14bf1e6370205783][DEFAULT][/testlink/lib/results/printDocOptions.php][17/Aug/7 12:33:24]
+[<<][59885e14bf1e6370205783][DEFAULT][/testlink/lib/results/printDocOptions.php][17/Aug/7 12:33:24][17/Aug/7 12:33:24][took 0.00075400000000003 secs]
+[<<][59885e15157cb477703135][DEFAULT][/testlink/login.php][17/Aug/7 12:33:25][17/Aug/7 12:33:25][took 0.048058 secs]
+[>>][59885e152171e098715565][DEFAULT][/testlink/login.php][17/Aug/7 12:33:25]
